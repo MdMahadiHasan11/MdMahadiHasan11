@@ -66,10 +66,33 @@
     </div>
 </div>
 
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+<h2 style="font-family: Arial, sans-serif; font-size: 24px; color: #333;">GitHub Commit Counts</h2>
+    <div id="repos" style="font-family: Arial, sans-serif;">
+        <!-- Example repositories -->
+        <div class="repo" style="margin-bottom: 20px;">
+            <p class="repo-name" style="font-weight: bold;">Repository 1: 
+                <span class="commit-count" id="repo1-commits" style="color: green;">0</span> commits
+            </p>
+        </div>
+        <div class="repo" style="margin-bottom: 20px;">
+            <p class="repo-name" style="font-weight: bold;">Repository 2: 
+                <span class="commit-count" id="repo2-commits" style="color: green;">0</span> commits
+            </p>
+        </div>
+    </div>
+
+    <script>
+        async function fetchCommitCounts(repo, elementId) {
+            const username = 'your-github-username';
+            const repoName = repo;
+            const response = await fetch(`https://api.github.com/repos/${username}/${repoName}/commits`);
+            const commits = await response.json();
+            document.getElementById(elementId).textContent = commits.length;
+        }
+
+        // Fetch commit counts for each repository
+        fetchCommitCounts('repository1', 'repo1-commits');
+        fetchCommitCounts('repository2', 'repo2-commits');
+    </script>
 
 
