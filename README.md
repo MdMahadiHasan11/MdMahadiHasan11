@@ -71,28 +71,15 @@
         <!-- Example repositories -->
         <div class="repo" style="margin-bottom: 20px;">
             <p class="repo-name" style="font-weight: bold;">Repository 1: 
-                <span class="commit-count" id="repo1-commits" style="color: green;">0</span> commits
+                <span class="commit-count" id="repo1-commits" style="color: green;">21</span> commits
             </p>
         </div>
         <div class="repo" style="margin-bottom: 20px;">
             <p class="repo-name" style="font-weight: bold;">Repository 2: 
-                <span class="commit-count" id="repo2-commits" style="color: green;">0</span> commits
+                <span class="commit-count" id="repo2-commits" style="color: green;">25</span> commits
             </p>
         </div>
     </div>
 
-    <script>
-        async function fetchCommitCounts(repo, elementId) {
-            const username = 'your-github-username';
-            const repoName = repo;
-            const response = await fetch(`https://api.github.com/repos/${username}/${repoName}/commits`);
-            const commits = await response.json();
-            document.getElementById(elementId).textContent = commits.length;
-        }
-
-        // Fetch commit counts for each repository
-        fetchCommitCounts('repository1', 'repo1-commits');
-        fetchCommitCounts('repository2', 'repo2-commits');
-    </script>
 
 
