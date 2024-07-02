@@ -7,5 +7,48 @@
 <p> <span className='lg:text-3xl text-xl font-bold'>Hi , I'm Md Mahadi Hasan</span> a passionate MERN stack developer with a strong foundation in modern web development technologies. My expertise lies in crafting scalable web applications using React.js, JavaScript (ES6+), and Tailwind CSS for sleek, responsive designs. With a solid grasp of HTML5 and CSS3, I ensure seamless integration of UI/UX principles into every project.</p>  
 </p>
 <p className='mt-4'> In backend development, I leverage the power of MongoDB for efficient data management and Firebase for real-time database capabilities. My server-side proficiency includes Node.js and Express.js, allowing me to build robust APIs and deliver optimal performance.</p>
+
+<h2>Skills</h2>
+<div
+                        style={{ boxShadow: '4px 4px 6px rgba(0, 255, 255, 0.7)' }}
+                        className="lg:grid  md:grid lg:grid-cols-3 md:grid-cols-2 gap-8 px-10 py-5 ">
+                        <div className="">
+                            <div className="flex justify-between font-bold w-56"><p>React</p> <p>82%</p></div>
+                            <progress className="progress progress-success w-56" value="82" max="100"></progress>
+                        </div>
+                        <div className="">
+                            <div className="flex justify-between font-bold w-56"><p>JavaScript</p> <p>75%</p></div>
+                            <progress className="progress progress-success w-56" value="75" max="100"></progress>
+                        </div>
+                        <div className="">
+                            <div className="flex justify-between font-bold w-56"><p>Tailwind</p> <p>82%</p></div>
+                            <progress className="progress progress-success w-56" value="82" max="100"></progress>
+                        </div>
+                        <div className="">
+                            <div className="flex justify-between font-bold w-56"><p>CSS3</p> <p>75%</p></div>
+                            <progress className="progress progress-success w-56" value="75" max="100"></progress>
+                        </div>
+                        <div className="">
+                            <div className="flex justify-between font-bold w-56"><p>HTML5</p> <p>80%</p></div>
+                            <progress className="progress progress-success w-56" value="80" max="100"></progress>
+                        </div>
+                        <div className="">
+                            <div className="flex justify-between font-bold w-56"><p>Firebase</p> <p>70%</p></div>
+                            <progress className="progress progress-success w-56" value="70" max="100"></progress>
+                        </div>
+
+                        <div >
+                            <div className="flex justify-between font-bold w-56"><p>MongoDB</p> <p>75%</p></div>
+                            <progress className="progress progress-success w-56" value="75" max="100"></progress>
+                        </div>
+                        <div className="">
+                            <div className="flex justify-between font-bold w-56"><p>Node.JS</p> <p>65%</p></div>
+                            <progress className="progress progress-success w-56" value="65" max="100"></progress>
+                        </div>
+                        <div className="">
+                            <div className="flex justify-between font-bold w-56"><p>Express.JS</p> <p>65%</p></div>
+                            <progress className="progress progress-success w-56" value="65" max="100"></progress>
+                        </div>
+                    </div>
   
 
