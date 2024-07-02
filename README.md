@@ -19,49 +19,42 @@
     <div>
         <div class="flex justify-between font-bold w-56">
             <p>JavaScript</p>
-
         </div>
         <progress class="progress progress-success w-56" value="75" max="100"></progress>
     </div>
     <div>
         <div class="flex justify-between font-bold w-56">
             <p>Tailwind</p>
-
         </div>
         <progress class="progress progress-success w-56" value="82" max="100"></progress>
     </div>
     <div>
         <div class="flex justify-between font-bold w-56">
             <p>CSS3</p>
-
         </div>
         <progress class="progress progress-success w-56" value="75" max="100"></progress>
     </div>
     <div>
         <div class="flex justify-between font-bold w-56">
             <p>HTML5</p>
-
         </div>
         <progress class="progress progress-success w-56" value="80" max="100"></progress>
     </div>
     <div>
         <div class="flex justify-between font-bold w-56">
             <p>Firebase</p>
-
         </div>
         <progress class="progress progress-success w-56" value="70" max="100"></progress>
     </div>
     <div>
         <div class="flex justify-between font-bold w-56">
             <p>MongoDB</p>
-
         </div>
         <progress class="progress progress-success w-56" value="75" max="100"></progress>
     </div>
     <div>
         <div class="flex justify-between font-bold w-56">
             <p>Node.JS</p>
-
         </div>
         <progress class="progress progress-success w-56" value="65" max="100"></progress>
     </div>
