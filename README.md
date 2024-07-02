@@ -9,7 +9,7 @@
 <p className='mt-4'> In backend development, I leverage the power of MongoDB for efficient data management and Firebase for real-time database capabilities. My server-side proficiency includes Node.js and Express.js, allowing me to build robust APIs and deliver optimal performance.</p>
 
 <h2>Skills</h2>
-<div style="box-shadow: 4px 4px 6px rgba(0, 255, 255, 0.7);" class="lg:grid md:grid lg:grid-cols-3 md:grid-cols-2 gap-8 px-10 py-5">
+<div style="box-shadow: 4px 4px 6px rgba(0, 255, 255, 0.7);" class="class="lg:grid md:grid lg:grid-cols-3 md:grid-cols-2 gap-8 px-10 py-5">
     <div>
         <div class="flex justify-between font-bold w-56">
             <p>React</p>
