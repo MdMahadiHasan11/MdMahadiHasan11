@@ -10,7 +10,7 @@ I'm a passionate and dedicated front-end developer with expertise in React.js, M
 CSS, JavaScript, Node.js, and Express.js. My journey in web development is driven by a love for creating visually 
 appealing, user-friendly, and highly functional web applications. Welcome to my GitHub profile!
 
-[![](https://i.ibb.co/PtGXvhp/stock-vector-programming-web-banner-best-programming-languages-technology-process-of-software-develo.jpg)](https://i.ibb.co/PtGXvhp/stock-vector-programming-web-banner-best-programming-languages-technology-process-of-software-develo.jpg)
+[![](https://i.ibb.co.com/3vcW66M/ezgif-2-be5cead90c.jpg)](https://i.ibb.co.com/3vcW66M/ezgif-2-be5cead90c.jpg)
 
 ## 🚀 About Me
 
