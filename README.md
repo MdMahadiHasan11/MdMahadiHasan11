@@ -2,7 +2,7 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/MdMahadiHasan11?label=Follow&style=social)](https://github.com/MdMahadiHasan11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](www.linkedin.com/in/mdmahadi-hasan-bd75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/mdmahadi-hasan-bd75/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=portfolio&logoColor=white&color=0e76a8)](https://mdmahadihasanportfolio.netlify.app/)
 
 
