@@ -1,4 +1,7 @@
 # Hi there! 👋 I'm Md Mahadi Hasan
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Hi there! 👋,I'm Md Mahadi Hasan" />
+</h1>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/MdMahadiHasan11?label=Follow&style=social)](https://github.com/MdMahadiHasan11)
