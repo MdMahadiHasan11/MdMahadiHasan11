@@ -39,7 +39,7 @@ appealing, user-friendly, and highly functional web applications. Welcome to my 
 
 ## 📊 GitHub Stats
 
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMahadiHasan11&count_private=true&theme=react&border_radius=10" alt="streak stats"/></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MdMahadiHasan11&show_icons=true&count_private=true&hide=stars" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMahadiHasan11&layout=compact" /></p>
 
