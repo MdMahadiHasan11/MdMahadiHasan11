@@ -13,7 +13,7 @@ I'm a passionate and dedicated front-end developer with expertise in React.js, M
 CSS, JavaScript, Node.js, and Express.js. My journey in web development is driven by a love for creating visually 
 appealing, user-friendly, and highly functional web applications. Welcome to my GitHub profile!
 
-[![](https://i.ibb.co.com/Kz8QdmN3/ezgif-5f8a750ee63915.jpg)](https://i.ibb.co.com/Kz8QdmN3/ezgif-5f8a750ee63915.jpg)
+[![](https://ibb.co.com/jvVTBsLd)
 
 ## 🚀 About Me
 
