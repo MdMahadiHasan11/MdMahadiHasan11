@@ -9,11 +9,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=portfolio&logoColor=white&color=0e76a8)](https://mdmahadihasanportfolio.netlify.app/)
 
 
-I'm a passionate and dedicated front-end developer with expertise in React.js, MongoDB, HTML, 
-CSS, JavaScript, Node.js, and Express.js. My journey in web development is driven by a love for creating visually 
-appealing, user-friendly, and highly functional web applications. Welcome to my GitHub profile!
+Full-Stack Developer specializing in modern web applications using React, Next.js, TypeScript, Node.js, and scalable databases like MongoDB & PostgreSQL. Passionate about clean UI, performance, and building reliable, production-ready systems.
 
-[![](https://i.ibb.co.com/mCvG1gHm/gemini-2-5-flash-image-A-modern-professional-Git-Hub-profile-banner-for-a-Full-Stack-Developer-Clean.jpg)]
+![](https://i.ibb.co.com/mCvG1gHm/gemini-2-5-flash-image-A-modern-professional-Git-Hub-profile-banner-for-a-Full-Stack-Developer-Clean.jpg)
 
 ## 🚀 About Me
 
